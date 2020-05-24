@@ -1,8 +1,10 @@
+//IMPORTANTE SUSTITUIR POR DOTENV
+
 module.exports = {
-    "user": 'sdiaz',
-    "password": 'sdiaz',
-    "server": '10.0.20.181',
-    "database": 'CUADRATURA',
+    "user": 'USUARIO',
+    "password": 'CONTRASEÑA',
+    "server": 'IPSERVER.CL',
+    "database": 'BASEDEDATO',
     "pool": {
         "max": 10,
         "min": 0,
